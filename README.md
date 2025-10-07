@@ -1,4 +1,4 @@
-# Tensorflow-2.19.0-no-avx
+# Tensorflow 2.19.0 for old CPUs without AVX
 Tensorflow 2.19.0 wheel for old CPUs without AVX.
 
 Linux x86-x64
